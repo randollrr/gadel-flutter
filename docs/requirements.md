@@ -1,6 +1,6 @@
 # Kondisyon (requirements) pou app Gadel
 
-## Ekran prisipal
+## Ekran prensipal
 
 * Banyè (appbar)
   - Tit
