@@ -1,0 +1,289 @@
+[
+    {
+        "film": "Captain America: First Avenger",
+        "last_watched": "2016-05-07",
+        "released": "2011 (July)",
+        "series": "Marvel Cinematic Universe",
+        "service": "google play"
+    },
+    {
+        "film": "Iron Man",
+        "last_watched": "2016-05-11",
+        "released": "2008 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "google play"
+    },
+    {
+        "film": "Incredible Hulk",
+        "last_watched": "2016-05-29",
+        "released": "2008 (June)",
+        "series": "Marvel Cinematic Universe",
+        "service": "google play"
+    },
+    {
+        "film": "Iron Man 2",
+        "last_watched": "watched",
+        "released": "2010 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "theatre, xfinity"
+    },
+    {
+        "film": "Thor",
+        "last_watched": "watched",
+        "released": "2011 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "theatre, xfinity"
+    },
+    {
+        "film": "Avengers",
+        "last_watched": "watched",
+        "released": "2012 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "theatre, xfinity"
+    },
+    {
+        "film": "Iron Man 3",
+        "last_watched": "watched",
+        "released": "2013 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "theatre, xfinity"
+    },
+    {
+        "film": "Thor: The Dark World",
+        "last_watched": "2018-04-11",
+        "released": "2013 (November)",
+        "series": "Marvel Cinematic Universe",
+        "service": "youtube tv"
+    },
+    {
+        "film": "Captain America: Winter Soldier",
+        "last_watched": "watched",
+        "released": "2014 (April)",
+        "series": "Marvel Cinematic Universe",
+        "service": "xfinity"
+    },
+    {
+        "film": "Guardians of the Galaxy",
+        "last_watched": "2017-05-06",
+        "released": "2014 (August)",
+        "series": "Marvel Cinematic Universe",
+        "service": "xfinity, youtube tv"
+    },
+    {
+        "film": "Avengers 2: Age of Ultron",
+        "last_watched": "watched",
+        "released": "2015 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "theatre"
+    },
+    {
+        "film": "Ant-Man",
+        "last_watched": "watched",
+        "released": "2015 (July)",
+        "series": "Marvel Cinematic Universe",
+        "service": "hbonow"
+    },
+    {
+        "film": "Civil War: Captain America",
+        "last_watched": "watched",
+        "released": "2016 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "netflix"
+    },
+    {
+        "film": "Doctor Strange",
+        "last_watched": "2018-04-07",
+        "released": "2016 (October)",
+        "series": "Marvel Cinematic Universe",
+        "service": "youtube tv"
+    },
+    {
+        "film": "Guardians of the Galaxy vol.2",
+        "last_watched": "2018-04-11",
+        "released": "2017 (May)",
+        "series": "Marvel Cinematic Universe",
+        "service": "netflix"
+    },
+    {
+        "film": "Thor: Ragnarok",
+        "last_watched": "-",
+        "released": "2017 (November)",
+        "series": "Marvel Cinematic Universe",
+        "service": "-"
+    },
+    {
+        "film": "Black Panther",
+        "last_watched": "2018-02-12",
+        "released": "2018 (February)",
+        "series": "Marvel Cinematic Universe",
+        "service": "theatre"
+    },
+    {
+        "film": "Avengers 3: Infinity War",
+        "last_watched": "-",
+        "released": "2018 (March)",
+        "series": "Marvel Cinematic Universe",
+        "service": "-"
+    },
+    {
+        "film": "X-Men",
+        "last_watched": "watched",
+        "released": "2000",
+        "series": "X-men",
+        "service": "theatre"
+    },
+    {
+        "film": "X2",
+        "last_watched": "watched",
+        "released": "2003",
+        "series": "X-men",
+        "service": "theatre"
+    },
+    {
+        "film": "X-Men: The Last Stand",
+        "last_watched": "watched",
+        "released": "2006",
+        "series": "X-men",
+        "service": "theatre"
+    },
+    {
+        "film": "X-Men Origins: Wolverine",
+        "last_watched": "watched",
+        "released": "2009",
+        "series": "X-men",
+        "service": "theatre"
+    },
+    {
+        "film": "X-Men: First Class",
+        "last_watched": "watched",
+        "released": "2011",
+        "series": "X-men",
+        "service": "xifinity"
+    },
+    {
+        "film": "The Wolverine",
+        "last_watched": "-",
+        "released": "2013",
+        "series": "X-men",
+        "service": "-"
+    },
+    {
+        "film": "X-Men: Days of Future Past",
+        "last_watched": "watched",
+        "released": "2014",
+        "series": "X-men",
+        "service": "xfinity"
+    },
+    {
+        "film": "Deadpool",
+        "last_watched": "watched",
+        "released": "2016",
+        "series": "X-men",
+        "service": "hbonow"
+    },
+    {
+        "film": "X-Men: Apocalypse",
+        "last_watched": "-",
+        "released": "2016",
+        "series": "X-men",
+        "service": "-"
+    },
+    {
+        "film": "Deadpool 2",
+        "last_watched": "-",
+        "released": "2018",
+        "series": "X-men",
+        "service": "-"
+    },
+    {
+        "film": "The Bourne Identity",
+        "last_watched": "watched",
+        "released": "2002",
+        "series": "Bourne",
+        "service": "theatre"
+    },
+    {
+        "film": "The Bourne Supremacy",
+        "last_watched": "watched",
+        "released": "2004",
+        "series": "Bourne",
+        "service": "theatre"
+    },
+    {
+        "film": "The Bourne Ultimatum",
+        "last_watched": "-",
+        "released": "2007",
+        "series": "Bourne",
+        "service": "-"
+    },
+    {
+        "film": "The Bourne Legacy",
+        "last_watched": "2018-04-07",
+        "released": "2012",
+        "series": "Bourne",
+        "service": "youtube tv"
+    },
+    {
+        "film": "Jason Bourne",
+        "last_watched": "",
+        "released": "2016",
+        "series": "Bourne",
+        "service": ""
+    },
+    {
+        "film": "Man of Steel",
+        "last_watched": "-",
+        "released": "2013",
+        "series": "DC Extended Universe (DCEU)",
+        "service": "-"
+    },
+    {
+        "film": "Batman vs Superman",
+        "last_watched": "-",
+        "released": "2016",
+        "series": "DC Extended Universe (DCEU)",
+        "service": "-"
+    },
+    {
+        "film": "Wonder Woman",
+        "last_watched": "-",
+        "released": "2017 (June)",
+        "series": "DC Extended Universe (DCEU)",
+        "service": "-"
+    },
+    {
+        "film": "Justice League",
+        "last_watched": "watched",
+        "released": "2017",
+        "series": "DC Extended Universe (DCEU)",
+        "service": "theatre"
+    },
+    {
+        "film": "Aquaman",
+        "last_watched": "-",
+        "released": "2018",
+        "series": "DC Extended Universe (DCEU)",
+        "service": "-"
+    },
+    {
+        "film": "Justice League: Part Two",
+        "last_watched": "-",
+        "released": "2019",
+        "series": "DC Extended Universe (DCEU)",
+        "service": "-"
+    },
+    {
+        "film": "Wonder Woman 2",
+        "last_watched": "-",
+        "released": "2019 (November)",
+        "series": "DC Extended Universe (DCEU)",
+        "service": "-"
+    },
+    {
+        "film": "The Fallout",
+        "last_watched": "2018-11-25",
+        "released": "2018-07-27",
+        "series": "Mission: Impossible",
+        "service": "Delta Air"
+    }
+]
