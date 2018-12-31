@@ -10,4 +10,4 @@ Yon app ki konstwi ak Flutter (e Dart).
 Gid itilize: [https://flutter.io/get-started/codelab](https://flutter.io/get-started/codelab/)
 
 MCU: https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films
-DCEU
+DCEU: https://en.wikipedia.org/wiki/DC_Extended_Universe
