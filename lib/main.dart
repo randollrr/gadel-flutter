@@ -9,6 +9,10 @@ class GadelApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Gadel',
+      theme: new ThemeData(
+        primarySwatch: Colors.blue,
+        brightness: Brightness.dark,
+      ),
       home: Scaffold(
         appBar: AppBar(
           title: Text('Gadel'),
